@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](/youtubeCover%20-%20Copy.png)
+
 <!--
 **Henryle-hd/Henryle-hd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
