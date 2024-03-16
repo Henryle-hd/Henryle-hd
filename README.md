@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](/youtubeCover%20-%20Copy.png)
 
 <!--
