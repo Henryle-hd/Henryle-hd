@@ -1,4 +1,6 @@
 ![hello world](https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif)
+Full Stack Developer | JavaScript | Reactjs | TypeScript | Nextjs | Nodejs | Express | MongoDB | MySQL 
+
 <!--
 **Henryle-hd/Henryle-hd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
