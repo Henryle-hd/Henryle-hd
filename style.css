@@ -218,6 +218,10 @@ footer{
     nav ul li {
         margin: 0.5rem;
     }
+    #about{
+    /*width: 50%;
+    */text-align: center;
+    padding:20px 50px;
 }
 .video-container {
     position: relative;
