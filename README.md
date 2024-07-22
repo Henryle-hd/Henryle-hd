@@ -1,9 +1,10 @@
-# Henry Mwombeck Dioniz
+Hello! 👋
+## Henry Mwombeck Dioniz
 
 ![hello world](https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif)
 
 ## About Me
-Hello, Henry Dioniz here! Passionate and self-motivated web developer with experience in building web applications and websites. Skilled in AI integration and using content management systems like Drupal. Always eager to learn and grow in a dynamic work environment.
+ Passionate and self-motivated web developer with experience in building web applications and websites. Skilled in AI integration and using content management systems like Drupal. Always eager to learn and grow in a dynamic work environment.
 
 ## Contact Information
 - Email: henrydionizi@gmail.com
