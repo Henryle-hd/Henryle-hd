@@ -62,24 +62,17 @@ Hello! 👋
 | Bash                         |                     |
 | WinSCP, PuTTY                |                     |
 
-## Education
-- Online tutorials
-- Ordinary Diploma in Information Technology,
-- Fieldwork at Department of System and Network Engineering, University of Dar es Salaam Computer Center (UCC), Dar es Salaam, Tanzania, 2023
 
 ## Projects
-### SomaSmart (2023)
+### SomaSmart 
 An AI-powered chatbot designed to revolutionize the way students manage their notes. SomaSmart allows students to effortlessly take, edit, and search their notes in both English and Swahili. With AI-driven capabilities, it quickly finds specific information, provides concise summaries, and enables deep exploration of topics without leaving the app. [Demo video](https://youtu.be/d__tkdtN7kg?si=DOi4_w_d7LpPU4ie)
 
-### CBE Chatbot Project (2024)
+### CBE Chatbot Project 
 Developed a web application called CBE AI to provide an interactive and informative platform for students, teachers, and potential applicants seeking information about the College of Business Education (CBE). The chatbot, powered by the ChatGPT API, addresses the difficulty in obtaining information about CBE by offering a centralized, easily accessible source. [Demo video](https://youtu.be/0Xg1fU03Tss?si=duhLH-Dk1RX2zJsb)
 
 ## Packages
 ### Swahili-English Translator 🌍🗣️
 A simple npm package for translating between English and Swahili. This tool offers quick and accurate translations, complete with word meanings, grammatical types, and usage examples. Whether you're a developer building multilingual applications, a language learner, or someone working with Swahili and English content, [Swahili-English Translator](https://github.com/Henryle-hd/swahili-english-translator) provides an efficient solution for your translation needs.
-## Community Involvement
-- Active attendee at developer communities including:
-  - GDG Dar es Salaam (Google Developers Groups)
 
 ## Interests
 <!-- - Writing weekly blog articles to share knowledge and experiences -->
