@@ -1,12 +1,7 @@
-Hello! 👋
-
-## Henry Mwombeck Dioniz
-
 ![hello world](https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif)
 
-## About Me
-
-Passionate and self-motivated web developer with experience in building web applications and websites. Skilled in AI integration and using content management systems like Drupal. Always eager to learn and grow in a dynamic work environment.
+Hello! 👋
+I'm Henry Mwombeck Dioniz, a web developer with a passion for building innovative solutions
 
 ### Web Development
 
@@ -21,6 +16,7 @@ Passionate and self-motivated web developer with experience in building web appl
 ### Backend & Databases
 
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![postgred](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -55,8 +51,6 @@ An AI-powered chatbot designed to revolutionize the way students manage their no
 ### CBE Chatbot Project
 
 Developed a web application called CBE AI to provide an interactive and informative platform for students, teachers, and potential applicants seeking information about the College of Business Education (CBE). The chatbot, powered by the ChatGPT API, addresses the difficulty in obtaining information about CBE by offering a centralized, easily accessible source. [Demo video](https://youtu.be/0Xg1fU03Tss?si=duhLH-Dk1RX2zJsb)
-
-## Packages
 
 ### Swahili-English Translator 🌍🗣️
 
