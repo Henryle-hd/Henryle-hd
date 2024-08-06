@@ -1,7 +1,7 @@
 ![hello world](https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif)
 
 Hello! 👋
-I'm Henry Mwombeck Dioniz, a web developer with a passion for building innovative solutions
+I'm Henry Dioniz, a web developer with a passion for building innovative solutions
 
 ### Web Development
 
@@ -44,28 +44,19 @@ I'm Henry Mwombeck Dioniz, a web developer with a passion for building innovativ
 
 ## Projects
 
-### SomaSmart
-
-An AI-powered chatbot designed to revolutionize the way students manage their notes. SomaSmart allows students to effortlessly take, edit, and search their notes in both English and Swahili. With AI-driven capabilities, it quickly finds specific information, provides concise summaries, and enables deep exploration of topics without leaving the app. [Demo video](https://youtu.be/d__tkdtN7kg?si=DOi4_w_d7LpPU4ie)
-
-### CBE Chatbot Project
-
-Developed a web application called CBE AI to provide an interactive and informative platform for students, teachers, and potential applicants seeking information about the College of Business Education (CBE). The chatbot, powered by the ChatGPT API, addresses the difficulty in obtaining information about CBE by offering a centralized, easily accessible source. [Demo video](https://youtu.be/0Xg1fU03Tss?si=duhLH-Dk1RX2zJsb)
-
-### Swahili-English Translator 🌍🗣️
-
-A simple npm package for translating between English and Swahili. This tool offers quick and accurate translations, complete with word meanings, grammatical types, and usage examples. Whether you're a developer building multilingual applications, a language learner, or someone working with Swahili and English content, [Swahili-English Translator](https://github.com/Henryle-hd/swahili-english-translator) provides an efficient solution for your translation needs.
+- ##### SomaSmart (AI-powered) [Demo video](https://youtu.be/d__tkdtN7kg?si=DOi4_w_d7LpPU4ie)
+- ##### CBE Chatbot Project [Demo video](https://youtu.be/0Xg1fU03Tss?si=duhLH-Dk1RX2zJsb)
+- ##### Swahili-English Translator (npm package) [Docs](https://github.com/Henryle-hd/swahili-english-translator)
+- ##### TanzaniaFamousAPI [Docs](tanzania-famous-api.netlify.app)
 
 ## Interests
-
-<!-- - Writing weekly blog articles to share knowledge and experiences -->
-<!-- - Continuous learning and exploration of new technologies -->
-<!-- - Watching documentation of successful tech companies and staying updated on the latest technological advancements and trends -->
 
 - Listening to Music and podcasts
 - Reading books and articles on various topics
 
 ## Blog
 
-- [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/henryle-hd)
-- [easyone.hashnode](https://easyone.hashnode.dev/)
+[![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/henryle-hd)
+[easyone.hashnode](https://easyone.hashnode.dev/)
+
+[![coffee](https://camo.githubusercontent.com/2c6e7262afbee355cd59f269bf3077d4b840f9a36128e8b8b7ff091d251940ae/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f617269616c2d6f72616e67652e706e67)](https://buymeacoffee.com/henrylee)
