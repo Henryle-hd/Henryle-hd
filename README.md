@@ -57,5 +57,3 @@ I'm Henry Dioniz, a web developer with a passion for building innovative solutio
 
 [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/henryle-hd)
 [easyone.hashnode](https://easyone.hashnode.dev/)
-
-[![coffee](https://camo.githubusercontent.com/2c6e7262afbee355cd59f269bf3077d4b840f9a36128e8b8b7ff091d251940ae/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f617269616c2d6f72616e67652e706e67)](https://buymeacoffee.com/henrylee)
