@@ -37,11 +37,6 @@ I'm Henry Dioniz, a web developer with a passion for building innovative solutio
 ![WinSCP](https://img.shields.io/badge/WinSCP-2C3E50?style=for-the-badge&logo=winscp&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-007ACC?style=for-the-badge&logo=putty&logoColor=white)
 
-### Hosting & Deployment
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
 ## Projects
 
 - #### SomaSmart (AI-powered) [Demo video](https://youtu.be/d__tkdtN7kg?si=DOi4_w_d7LpPU4ie)
