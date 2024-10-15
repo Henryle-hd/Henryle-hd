@@ -42,7 +42,6 @@ I'm Henry Dioniz, a web developer with a passion for building innovative solutio
 - #### SomaSmart (AI-powered) [Demo video](https://youtu.be/d__tkdtN7kg?si=DOi4_w_d7LpPU4ie)
 - #### CBE Chatbot Project [Demo video](https://youtu.be/0Xg1fU03Tss?si=duhLH-Dk1RX2zJsb)
 - #### Swahili-English Translator (npm package) [Docs](https://henryle-hd.github.io/swahili-english-translator/)
-- #### TanzaniaFamousAPI [Docs](https://tanzania-famous-api.netlify.app/)
 
 ## Contribution
 
