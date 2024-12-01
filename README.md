@@ -37,12 +37,6 @@ I'm Henry Dioniz, a web developer with a passion for building innovative solutio
 ![WinSCP](https://img.shields.io/badge/WinSCP-2C3E50?style=for-the-badge&logo=winscp&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-007ACC?style=for-the-badge&logo=putty&logoColor=white)
 
-## Projects
-
-- #### SomaSmart (AI-powered) [Demo video](https://youtu.be/d__tkdtN7kg?si=DOi4_w_d7LpPU4ie)
-- #### CBE Chatbot Project [Demo video](https://youtu.be/0Xg1fU03Tss?si=duhLH-Dk1RX2zJsb)
-- #### Swahili-English Translator (npm package) [Docs](https://henryle-hd.github.io/swahili-english-translator/)
-
 ## Contribution
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Henryle-hd&theme=dark)](https://git.io/streak-stats)
