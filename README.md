@@ -41,12 +41,6 @@ I'm Henry Dioniz, a web developer with a passion for building innovative solutio
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Henryle-hd&theme=dark)](https://git.io/streak-stats)
 
-## Interests
-
-- Listening to Music and podcasts
-- Reading books and articles on various topics
-
 ## Blog
 
 [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/henryle-hd)
-[easyone.hashnode](https://easyone.hashnode.dev/)
