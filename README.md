@@ -43,4 +43,4 @@ I'm Henry Dioniz, a web developer with a passion for building innovative solutio
 
 ## Blog
 
-[![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/henryle-hd)
+[![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/henrylehd)
