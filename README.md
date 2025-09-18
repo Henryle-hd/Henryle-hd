@@ -1,7 +1,7 @@
 ![hello world](https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif)
 
 Hello! 👋
-I'm Henry Dioniz, a web developer with a passion for building innovative solutions
+I'm Henry Dioniz, a software developer with a passion for building innovative solutions
 
 ## 👨‍💻 Languages
 
