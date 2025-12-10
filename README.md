@@ -23,10 +23,6 @@ I'm Henry Dioniz, a software developer with a passion for building innovative so
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-## Contribution
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Henryle-hd&theme=dark)](https://git.io/streak-stats)
 
-## Blog
-
-[![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/henrylehd)
